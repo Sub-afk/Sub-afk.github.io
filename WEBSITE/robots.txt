@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sub-afk.github.io/sitemap.xml
